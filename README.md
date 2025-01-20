@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developement student</h3>
 <img align="right" src="https://giphy.com/gifs/YnS7j9pwnECXLMrI4t">
 
-<p align="left"> <img src="https://img.freepik.com/premium-vector/woman-using-mobile-social-networking_1325-2490.jpg?w=2000" alt="maryammrg" /> </p>
 
 
 - Hi I'm **Maryam**
