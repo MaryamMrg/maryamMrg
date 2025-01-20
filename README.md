@@ -13,8 +13,7 @@
 
 - 📫 How to reach me Maryam: **maryamelouadaa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <img src="https://img.freepik.com/premium-vector/woman-using-mobile-social-networking_1325-2490.jpg?w=2000" alt="maryammrg" /> </p>
 <a href="https://instagram.com/meryemelouu2243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meryemelouu2243" height="30" width="40" /></a>
 </p>
 
