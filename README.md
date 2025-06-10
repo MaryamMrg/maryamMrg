@@ -12,7 +12,7 @@
 
 - 📫 How to reach me Maryam: **maryamelouadaa@gmail.com**
 
-<p align="left"> <img src="[https://img.freepik.com/premium-vector/woman-using-mobile-social-networking_1325-2490.jpg?w=2000](https://hinhnen4k.com/wp-content/uploads/2023/06/hinh-nen-hoc-tap-4-1024x574.jpg)" alt="maryammrg" /> </p>
+<p align="left"> <img src="https://hinhnen4k.com/wp-content/uploads/2023/06/hinh-nen-hoc-tap-4-1024x574.jpg" alt="maryammrg" /> </p>
 <a href="https://instagram.com/meryemelouu2243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meryemelouu2243" height="30" width="40" /></a>
 </p>
 
