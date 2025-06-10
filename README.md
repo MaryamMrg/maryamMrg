@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maryam el ouadaa</h1>
 <h3 align="center">A passionate developement student</h3>
-<img align="right" src="[https://giphy.com/gifs/YnS7j9pwnECXLMrI4t](https://hinhnen4k.com/wp-content/uploads/2023/06/hinh-nen-hoc-tap-4-1024x574.jpg)">
+<img align="right" src="https://giphy.com/gifs/YnS7j9pwnECXLMrI4t](https://hinhnen4k.com/wp-content/uploads/2023/06/hinh-nen-hoc-tap-4-1024x574.jpg">
 
 
 
 - Hi I'm **Maryam**
 
-- 🌱 I’m currently learning **js css php html c c++ java python**
+- 🌱 I’m currently learning **java SpringBoot Angular js css php html c c++  python**
 
 - 👯 I’m looking to collaborate on **project**
 
